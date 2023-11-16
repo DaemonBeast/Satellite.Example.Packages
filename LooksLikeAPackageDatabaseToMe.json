@@ -1,0 +1,5 @@
+{
+    "id": "satellite.example.packages.something",
+    "name": "Totally a Package",
+    "asset_name": "something.txt"
+}
