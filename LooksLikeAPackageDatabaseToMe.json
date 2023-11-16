@@ -1,5 +1,7 @@
-{
-    "id": "satellite.example.packages.something",
-    "name": "Totally a Package",
-    "download_url": "https://github.com/DaemonBeast/Satellite.Example.Packages/releases/latest/download/something.txt"
-}
+[
+    {
+        "id": "satellite.example.packages.something",
+        "name": "Totally a Package",
+        "download_url": "https://github.com/DaemonBeast/Satellite.Example.Packages/releases/latest/download/something.txt"
+    }
+]
