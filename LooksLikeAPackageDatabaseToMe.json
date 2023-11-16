@@ -1,5 +1,5 @@
 {
     "id": "satellite.example.packages.something",
     "name": "Totally a Package",
-    "asset_name": "something.txt"
+    "download_url": "https://github.com/DaemonBeast/Satellite.Example.Packages/releases/latest/download/something.txt"
 }
